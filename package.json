@@ -1,0 +1,13 @@
+{
+    "id": "kopano-webapp",
+    "name": "Kopano WebApp",
+    "version": "0.0.0",
+    "description": "Franz/Ferdi Plugin for Kopano WebApp",
+    "main": "index.js",
+    "author": "Felix Bartels <felix@9wd.eu>",
+    "license": "MIT",
+    "repository": "https://github.com/fbartels/franz-webapp",
+    "config": {
+        "hasCustomUrl": true
+    }
+  }
