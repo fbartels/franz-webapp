@@ -3,11 +3,11 @@ Franz/Ferdi recipe for Kopano WebApp
 
 ## Installation
 
-This recipe needs to be cloned/extracted to a folder called `kopano-webapp` that is located below either:
+This recipe needs to be cloned/extracted to a folder called `kopano-webapp` which is located at either:
 
-- Mac: ~/Library/Application Support/Franz/recipes/dev/
-- Windows: %appdata%/Franz/recipes/dev/
-- Linux: ~/.config/Franz/recipes/dev
+- Mac: `~/Library/Application Support/Franz/recipes/dev/`
+- Windows: `%appdata%/Franz/recipes/dev/`
+- Linux: `~/.config/Franz/recipes/dev`
 
 (Just replace `Franz` with `Ferdi` in case you are using Ferdi)
 
